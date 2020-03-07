@@ -1,8 +1,22 @@
 header {
-  color: blue;
-  background-color: blanchedalmond;
+  color: black;
+  background-color: grey;
   font-style: italic;
-  font-size: 40px;
+  font-size: 20px;
   text-align: center;
+  padding-top: 10px;
 }
-
+div {
+    display:inline-block;
+}
+main {
+    position: relative;
+    left: 650px;
+}
+h1 {
+    padding-bottom: 35px;
+}
+li {
+    color: black;
+    font-size: x-large;
+}
