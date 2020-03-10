@@ -1,9 +1,33 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+# jQuery Salary Calculator
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+Calculates employee salaries.
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+## Screen Shot
+
+![Screen Shot](screenshot.png)
+
+### Prerequisites
+
+- Web browser
+
+## Installation
+
+1. Clone the project
+
+## Usage
+
+1. Open index.html
+2. Fill the form and click submit.
+
+
+## Built With
+
+- JQuery
+
+## Acknowledgement
+Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality.
+
+## Support
+If you have suggestions or issues, please email me at karla.d.fish@gmail.com.
